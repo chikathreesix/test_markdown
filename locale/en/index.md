@@ -43,3 +43,5 @@ The [FAQ](/en/docs/faq/) covers how everyone can contribute to Node.js, our code
 ### Guides
 
 Long-form, in-depth articles about Node.js technical features and capabilities.
+
+![Image of preview](preview.png)
