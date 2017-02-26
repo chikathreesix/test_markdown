@@ -52,3 +52,5 @@ labels:
 
 <!-- The [FAQ](/en/docs/faq/) covers how everyone can contribute to Node.js, our code of conduct and governance model, how to get in touch on GitHub and IRC, and how to help out with triaging issues. -->
 [よくある質問](/en/docs/faq)　では、どなたでも参加ができる Node.js への貢献の仕方、行動規範、ガバナンス体制、GitHub や IRC でのやり取りの方法、不具合の修正の仕方などについて網羅しています。
+
+[Image of preview](../en/preview.png)
