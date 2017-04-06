@@ -15,6 +15,8 @@ There are several types of documentation available on this website:
 * Guides
 * Others
 * Hoge
+* Test2
+* Test3
 
 ### API Reference Documentation
 
@@ -47,3 +49,10 @@ The [FAQ](/en/docs/faq/) covers how everyone can contribute to Node.js, our code
 Long-form, in-depth articles about Node.js technical features and capabilities.
 
 ![Image of preview](preview.png)
+
+<script>alert("hoge hoge")</script>
+<style>body{ color: white; }</style>
+
+## Hoge
+
+Test content
