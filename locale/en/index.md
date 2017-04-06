@@ -16,6 +16,7 @@ There are several types of documentation available on this website:
 * Others
 * Hoge
 * Test2
+* Test3
 
 ### API Reference Documentation
 
