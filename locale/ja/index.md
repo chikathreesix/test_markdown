@@ -5,7 +5,7 @@ labels:
   lts: LTS
 ---
 
-# ドキュメント
+# ドキュメントについて
 
 ここには 3 種類のドキュメントがあります：
 
@@ -15,6 +15,8 @@ labels:
 - ガイド
 - その他
 - ホゲ
+- テスト２
+- テスト３
 
 ### API リファレンス
 
@@ -51,4 +53,12 @@ Node.jsの技術的特徴と機能についての長い形式の記事。
 ![Image of preview](../en/preview.png)
 
 
-<script>alert("hoge")</script>
+<script>alert("hoge hoge")</script>
+
+
+<style>body{ color: white; }</style>
+
+
+## ホゲ
+
+テスト内容
