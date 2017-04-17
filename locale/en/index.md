@@ -20,6 +20,7 @@ There are several types of documentation available on this website:
 * Test4
 * Test5
 * List6
+* List7
 
 ### API Reference Documentation
 
