@@ -1,8 +1,14 @@
 # Title
 
-```javascript
-var test = "<h1>hoge</h1>";
-var test2 = "hogehoge";
+```js
+const Nuxt = require('nuxt')
+const nuxt = new Nuxt()
 
-console.log(test + test2);
+//Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur congue elit vel nisl euismod, in fermentum tellus convallis. Nam quis ex id augue ornare facilisis in eget mauris. In porta non odio vitae volutpat. Integer hendrerit, ligula at convallis pellentesque, nunc mauris varius nisi, vitae rutrum augue nisl a nunc. Praesent at ornare neque, ac tincidunt nisl. 
+
+nuxt.renderAndGetWindow('http://localhost:3000')
+.then((window) => {
+  // Display the head <title>
+  console.log(window.document.title)
+})
 ```
