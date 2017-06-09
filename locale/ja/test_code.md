@@ -3,7 +3,7 @@
 ```js
 const Nuxt = require('nuxt')
 const nuxt = new Nuxt()
-//保ゲホゲホゲホゲホゲテストテストテスト
+//保ゲホゲホゲホゲホゲテストテストテストホゲゲ
 nuxt.renderAndGetWindow('http://localhost:3000')
 .then((window) => {
   // ヘッド<title>を表示
