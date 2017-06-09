@@ -13,4 +13,8 @@ nuxt.renderAndGetWindow('http://localhost:3000')
 })
 ```
 
-- Expects: `boolean | 'once'` (`'once'` only supported in 2.3.1+)
+- #### `runInNewContext`
+
+  - 2.3.0+
+  - only used in `createBundleRenderer`
+  - Expects: `boolean | 'once'` (`'once'` only supported in 2.3.1+)
