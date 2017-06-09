@@ -10,5 +10,3 @@ nuxt.renderAndGetWindow('http://localhost:3000')
   console.log(window.document.title)
 })</title>
 ```
-
-Test
