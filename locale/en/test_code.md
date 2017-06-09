@@ -12,3 +12,5 @@ nuxt.renderAndGetWindow('http://localhost:3000')
   console.log(window.document.title)
 })
 ```
+
+- Expects: `boolean | 'once'` (`'once'` only supported in 2.3.1+)
