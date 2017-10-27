@@ -5,9 +5,9 @@ labels:
   lts: LTS
 ---
 
-# About Docs
+# ドキュメントについて
 
-There are several types of documentation available on this website:
+このウェブサイトには、いくつかの種類のドキュメントがあります。
 
 - API reference documentation
 - ES6 features
@@ -24,11 +24,11 @@ There are several types of documentation available on this website:
 - List8
 - List9
 
-### API Reference Documentation
+### APIリファレンスマニュアル
 
-The [API reference documentation](/api/) provides detailed information about a function or object in Node.js. This documentation indicates what arguments a method accepts, the return value of that method, and what errors may be related to that method. It also indicates which methods are available for different versions of Node.js.
+[APIリファレンスドキュメントに](/api/)は、Node.js内の関数またはオブジェクトに関する詳細情報が記載されています。このドキュメントは、メソッドが受け入れる引数、そのメソッドの戻り値、およびそのメソッドに関連するエラーを示します。また、Node.jsの異なるバージョンで使用できるメソッドを示します。
 
-This documentation describes the built-in modules provided by Node.js. It does not document modules provided by the community.
+このドキュメントでは、Node.jsによって提供される組み込みモジュールについて説明します。コミュニティによって提供されるモジュールは文書化されていません。
 
 
 <div class="highlight-box">
@@ -47,7 +47,7 @@ This documentation describes the built-in modules provided by Node.js. It does n
 
 ### ES6 Features
 
-The [ES6 section](/en/docs/es6/) describes the three ES6 feature groups, and details which features are enabled by default in Node.js, alongside explanatory links. It also shows how to find which version of V8 shipped with a particular Node.js release.
+[ES6セクションで](/en/docs/es6/)は、3つのES6フィーチャグループについて説明し、Node.jsでデフォルトで有効になっている機能と説明リンクを詳しく説明します。また、特定のNode.jsリリースに同梱されているV8のバージョンを確認する方法も示しています。
 
 ### Frequently Asked Questions
 
