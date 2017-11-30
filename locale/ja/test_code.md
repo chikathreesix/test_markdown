@@ -10,3 +10,9 @@ nuxt.renderAndGetWindow('http://localhost:3000')
   console.log(window.document.title)
 })</title>
 ```
+
+- #### `runInNewContext`
+
+    - 2.3.0+
+    - `createBundleRenderer`内のみで使用
+    - Expects: `boolean | 'once'` (`'once'` は2.3.1以上でのみサポート)
