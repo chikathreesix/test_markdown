@@ -1,4 +1,4 @@
-# Title.3
+# Title 3
 
 ```js
 const Nuxt = require('nuxt')
