@@ -16,7 +16,3 @@ content
 # Fugafuga
 
 - fuga
-
-# Piyopiyo
-
-- piyo
