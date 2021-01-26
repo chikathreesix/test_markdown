@@ -1,3 +1,3 @@
-# 画像テスト
+# 画像テストですです
 
-![画像オルト](img/flow.png "画像タイトル")
+![Image Alt](../en/img/flow.png "Image Title")
